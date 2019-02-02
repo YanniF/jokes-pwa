@@ -1,0 +1,1 @@
+body,html{height:calc(100% - 4em)}body{display:grid;align-items:center;padding:2em;background-color:#dc143c;color:#fff;text-align:center;font-family:Montserrat,sans-serif;font-size:2em;line-height:2}::-moz-selection{background-color:#fff;color:#dc143c}::selection{background-color:#fff;color:#dc143c}@media only screen and (max-width:600px){html{font-size:50%}}
